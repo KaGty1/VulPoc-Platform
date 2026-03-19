@@ -1,0 +1,22 @@
+{
+  "server_port": "8080",
+  "frontend_dist": "../frontend/dist",
+  "max_inline_file_size": 262144,
+  "sources": [
+    {
+      "name": "Vulnerability Wiki PoC",
+      "path": "../../Vulnerability-Wiki-PoC-main",
+      "type": "repo"
+    },
+    {
+      "name": "Awesome POC",
+      "path": "../../Awesome-POC-master",
+      "type": "repo"
+    },
+    {
+      "name": "域渗透指南",
+      "path": "../../域渗透攻防",
+      "type": "guide"
+    }
+  ]
+}

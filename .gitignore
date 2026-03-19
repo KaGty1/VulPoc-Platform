@@ -1,0 +1,47 @@
+# macOS / system
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment / local overrides
+.env
+.env.*
+*.local
+
+# Node / frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Go / backend
+bin/
+cover.out
+coverage.out
+*.test
+
+# Project caches
+.cache/
+VulPoc-Platform/backend/.cache/
+VulPoc-Platform/frontend/.vite/
+VulPoc-Platform/frontend/dist/
+
+# Temporary upload / import artifacts
+VulPoc-Platform/backend/data/uploads/
+
+# OS-generated files inside nested repos
+**/.DS_Store
