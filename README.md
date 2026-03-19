@@ -1,6 +1,6 @@
-#                                                                 VulPoc Platform
-
 <div align="center">
+
+<h1>VulPoc Platform</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Codex-5.4-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex 5.4" />
